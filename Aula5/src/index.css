@@ -1,0 +1,46 @@
+.App {
+  margin: 0 auto;
+  padding: 200px;
+  text-align: center;
+  background-color: #f9f7f7; /* Rosa */
+  color: white; /* Fonte branca */
+  min-height: 100vh; /* Para ocupar toda a altura da tela */
+}
+
+h1 {
+  font-size: 5rem; /* Tamanho do texto "Site de Posts" */
+}
+
+input, textarea {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 16px;
+
+  color: white; /* Texto branco nos inputs */
+  border: 1px solid white; /* Borda branca */
+  border-radius: 5px; /* Borda arredondada */
+}
+
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: white; /* Fundo branco para botões */
+  color: #ffffff; /* Texto rosa para botões */
+  border: none; /* Sem borda */
+  border-radius: 5px; /* Borda arredondada */
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  border: 1px solid white; /* Borda branca */
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+
+}
